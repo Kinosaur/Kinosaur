@@ -5,7 +5,6 @@ A Computer Science student at Assumption University of Thailand with a passion f
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinosaur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Kinosaur&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kinosaur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -38,6 +37,10 @@ A Computer Science student at Assumption University of Thailand with a passion f
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBlc3drdXR3NWhmbmQ1YzZrMGkzczNnMTQxbzZneWVsa2NsbzdscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7ZemDnpg2lXZW7x6/giphy.gif" />
 
 ###
 

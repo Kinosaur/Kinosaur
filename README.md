@@ -1,10 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hello 👋, I’m Kino</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C52B&center=true&vCenter=true&multiline=true&width=700&lines=🎓+Computer+Science+Student+at+Assumption+University;💡+Passionate+about+Machine+Learning+and+AI;👁️‍🗨️+Lover+of+Computer+Vision+and+Software+Development" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🌟 About Me

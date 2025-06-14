@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hello 👋, I’m Kino</h1>
 
-### 🌟 About Me
+## 🌟 About Me
 - 🏫 I'm a **Computer Science student** at **Assumption University of Thailand**
 - 🤖 I'm deeply passionate about **Machine Learning**, **Computer Vision**
 - 🎥 Currently exploring **Both**

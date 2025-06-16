@@ -1,10 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hello 👋, I’m Kino</h1>
+<h1 align="center">Hello 👋, I’m Kaung Khant Lin (Kino)</h1>
 
 ## 🌟 About Me
 - 🏫 I'm a **Computer Science student** at **Assumption University of Thailand**
 - 🤖 I'm deeply passionate about **Machine Learning**, **Computer Vision**
-- 🎥 Currently exploring **Both**
 - 💻 Love building real-world **Software Projects** and learning cutting-edge tech
 
 ###

@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hello 👋, I’m Kaung Khant Lin (Kino)</h1>
+<h1 align="center">Hallo 👋, I’m Kaung Khant Lin (Kino)</h1>
 
 ## 🌟 About Me
 - 🏫 I'm a **Computer Science student** at **Assumption University of Thailand**

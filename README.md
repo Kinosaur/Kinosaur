@@ -4,7 +4,7 @@
 ## 🌟 About Me
 - 🏫 I'm a **Computer Science student** at **Assumption University of Thailand**
 - 🤖 I'm deeply passionate about **Data Analytics**, **Data Science**, **Machine Learning**
-- 💻 Love building real-world **Software Projects**
+- 💻 Love solving real-world **Data Projects**
 - 💬 Currently learning Deutsch
 
 ###

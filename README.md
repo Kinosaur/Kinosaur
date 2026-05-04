@@ -1,11 +1,28 @@
 <!-- Profile Header -->
 <h1 align="center">Hallo 👋, I’m Kaung Khant Lin (Kinosaur)</h1>
 
+<h3 align="center">Computer Science student pursuing the data route</h3>
+
+<p align="center">
+  Data Analyst • Data Scientist • Data Engineering Learner
+</p>
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTNwMW1tY2M4ODJwbTI2ZXRwZHF5cWxpaW9vZmhudWVsNzcycHpxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/beQlhn9IBXSXmkaYfi/giphy.gif" />
+
 ## 🌟 About Me
-- 🏫 I'm a **Computer Science student** at **Assumption University of Thailand**
-- 🤖 I'm deeply passionate about **Data Analytics**, **Data Science**, **Machine Learning**
-- 💻 Love solving real-world **Data Projects**
-- 💬 Currently learning Deutsch
+
+- 🏫 Computer Science student at **Assumption University of Thailand**
+- 📊 Building my path across **Data Analytics**, **Data Science**, and **Data Engineering**
+- 🧠 Interested in turning raw data into useful insights, clean workflows, and practical solutions
+- 🛠️ Comfortable learning by building, experimenting, and improving one step at a time
+- 🌱 Currently learning **Data Engineering on DataCamp** and **Chinese**
+
+## 🎯 Current Focus
+
+- Strengthening my foundation in **Python**, **SQL**, and analytical thinking
+- Learning how data moves through pipelines, databases, and real-world systems
+- Exploring machine learning concepts and data-driven problem solving
+- Growing a professional data portfolio through practice and continuous learning
 
 ###
 
@@ -16,24 +33,31 @@
 </div>
 
 ###
-# 💻 Tech Stack:
+
+# 💻 Tech Stack
+
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Technologies & Tools:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+**Data & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Platforms & Technologies:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTNwMW1tY2M4ODJwbTI2ZXRwZHF5cWxpaW9vZmhudWVsNzcycHpxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/beQlhn9IBXSXmkaYfi/giphy.gif" />
-
-###
+## 🤝 Connect
 
 <div align="left">
-  <a href="https://www.youtube.com/@whoiskino" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/kaungkhantlin-kinosaur/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:kaungkhantlin999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
+  </a>
+  <a href="https://www.youtube.com/@whoiskino" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
 

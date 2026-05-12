@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hallo 👋, I’m Kaung Khant Lin (Kinosaur)</h1>
+<h1 align="center">你好 👋, I’m Kaung Khant Lin (Kinosaur)</h1>
 
-<h3 align="center">Computer Science student pursuing the data route</h3>
+<h3 align="center">Computer Science student building a path in data</h3>
 
 <p align="center">
-  Data Analyst • Data Scientist • Data Engineering Learner
+  Data Analytics • Data Science • Data Engineering
 </p>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTNwMW1tY2M4ODJwbTI2ZXRwZHF5cWxpaW9vZmhudWVsNzcycHpxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/beQlhn9IBXSXmkaYfi/giphy.gif" />
@@ -12,19 +12,19 @@
 ## 🌟 About Me
 
 - 🏫 Computer Science student at **Assumption University of Thailand**
-- 📊 Building my path across **Data Analytics**, **Data Science**, and **Data Engineering**
-- 🧠 Interested in turning raw data into useful insights, clean workflows, and practical solutions
-- 🛠️ Comfortable learning by building, experimenting, and improving one step at a time
+- 📊 Exploring the data field through **analytics**, **science**, and **engineering**
+- 🧠 Interested in turning raw data into clear insights and useful systems
+- 🛠️ Learning through projects, practice, and steady improvement
 - 🌱 Currently learning **Data Engineering on DataCamp** and **Chinese**
 
 ## 🎯 Current Focus
 
-- Strengthening my foundation in **Python**, **SQL**, and analytical thinking
-- Learning how data moves through pipelines, databases, and real-world systems
-- Exploring machine learning concepts and data-driven problem solving
-- Growing a professional data portfolio through practice and continuous learning
+- Strengthening my foundation in **Python**, **SQL**, and data analysis
+- Learning how data is collected, cleaned, transformed, and stored
+- Studying databases, pipelines, and the basics of data engineering
+- Building confidence step by step in the data field
 
-###
+## 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kinosaur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -32,9 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kinosaur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,8 +42,6 @@
 
 **Platforms & Technologies:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-###
 
 ## 🤝 Connect
 
@@ -57,18 +53,16 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
   </a>
   <a href="https://www.youtube.com/@whoiskino" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat-square" height="28" alt="youtube logo"  />
   </a>
 </div>
 
-###
-
 <br clear="both">
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake.svg" />
 </picture>
-
-###

@@ -6,16 +6,19 @@ Building toward **data analytics**, **data science**, and **data engineering**.
 - Practicing: Python, SQL, PostgreSQL, Pandas, NumPy, Excel, Jupyter
 - Reading: documentation, datasets, and details
 
-## GitHub
+## GitHub Signal
 
 <p align="center">
-  <img src="./assets/stats/stats.svg" alt="GitHub stats" width="49%" />
-  <img src="./assets/stats/productive-time.svg" alt="Most productive time" width="49%" />
-</p>
-
-<p align="center">
-  <img src="./assets/stats/repos-per-language.svg" alt="Languages by repository" width="49%" />
-  <img src="./assets/stats/most-commit-language.svg" alt="Languages by commit" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/dark/github-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/light/github-stats.svg" />
+    <img src="./assets/stats/light/github-stats.svg" alt="GitHub stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/dark/top-languages.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/light/top-languages.svg" />
+    <img src="./assets/stats/light/top-languages.svg" alt="Top languages" width="49%" />
+  </picture>
 </p>
 
 ## Activity

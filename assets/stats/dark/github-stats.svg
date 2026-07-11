@@ -1,0 +1,24 @@
+<svg width="420" height="178" viewBox="0 0 420 178" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Kinosaur repository signal</title>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .title { font-size: 13px; font-weight: 650; fill: #e6edf3; }
+    .label { font-size: 12px; fill: #7d8590; }
+    .value { font-size: 14px; font-weight: 650; fill: #e6edf3; }
+    .small { font-size: 11px; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="177" rx="6" stroke="#30363d" opacity="0.72"/>
+  <text class="title" x="22" y="30">repo signal</text>
+  <circle cx="395" cy="25" r="3.5" fill="#3fb950"/>
+  <text class="label" x="22" y="60">public repos</text>
+  <text class="value" x="398" y="60" text-anchor="end">31</text>
+  <line x1="22" y1="73" x2="398" y2="73" stroke="#30363d" opacity="0.55"/>
+  <text class="label" x="22" y="95">stars received</text>
+  <text class="value" x="398" y="95" text-anchor="end">11</text>
+  <line x1="22" y1="108" x2="398" y2="108" stroke="#30363d" opacity="0.55"/>
+  <text class="label" x="22" y="130">active this year</text>
+  <text class="value" x="398" y="130" text-anchor="end">26</text>
+  <line x1="22" y1="143" x2="398" y2="143" stroke="#30363d" opacity="0.55"/>
+  <text class="small" x="22" y="162">last push: 2026-07-11</text>
+  <text class="small" x="398" y="162" text-anchor="end">updated: 2026-07-11</text>
+</svg>

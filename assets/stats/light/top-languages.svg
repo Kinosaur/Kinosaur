@@ -1,0 +1,33 @@
+<svg width="420" height="178" viewBox="0 0 420 178" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Kinosaur top languages</title>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .title { font-size: 13px; font-weight: 650; fill: #24292f; }
+    .label { font-size: 12px; fill: #6e7781; }
+    .value { font-size: 14px; font-weight: 650; fill: #24292f; }
+    .small { font-size: 11px; fill: #57606a; }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="177" rx="6" stroke="#d0d7de" opacity="0.72"/>
+  <text class="title" x="22" y="30">language mix</text>
+  <text class="small" x="22" y="54">Python</text>
+  <rect x="170" y="45" width="170" height="7" rx="3.5" fill="#d8dee4"/>
+  <rect x="170" y="45" width="58" height="7" rx="3.5" fill="#3572A5"/>
+  <text class="small" x="398" y="54" text-anchor="end">34.4%</text>
+  <text class="small" x="22" y="74">TypeScript</text>
+  <rect x="170" y="65" width="170" height="7" rx="3.5" fill="#d8dee4"/>
+  <rect x="170" y="65" width="54" height="7" rx="3.5" fill="#3178c6"/>
+  <text class="small" x="398" y="74" text-anchor="end">32.0%</text>
+  <text class="small" x="22" y="94">JavaScript</text>
+  <rect x="170" y="85" width="170" height="7" rx="3.5" fill="#d8dee4"/>
+  <rect x="170" y="85" width="27" height="7" rx="3.5" fill="#f1e05a"/>
+  <text class="small" x="398" y="94" text-anchor="end">15.7%</text>
+  <text class="small" x="22" y="114">Java</text>
+  <rect x="170" y="105" width="170" height="7" rx="3.5" fill="#d8dee4"/>
+  <rect x="170" y="105" width="8" height="7" rx="3.5" fill="#b07219"/>
+  <text class="small" x="398" y="114" text-anchor="end">4.7%</text>
+  <text class="small" x="22" y="134">HTML</text>
+  <rect x="170" y="125" width="170" height="7" rx="3.5" fill="#d8dee4"/>
+  <rect x="170" y="125" width="7" height="7" rx="3.5" fill="#e34c26"/>
+  <text class="small" x="398" y="134" text-anchor="end">4.3%</text>
+  <text class="small" x="22" y="162">source bytes; notebooks are 94.0% of raw repo bytes</text>
+</svg>

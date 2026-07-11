@@ -1,4 +1,4 @@
-name: Profile Summary Cards
+name: Profile Stats
 
 on:
   schedule:
@@ -15,22 +15,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Refresh summary cards
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Refresh stats cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
         run: |
-          mkdir -p assets/stats
-          rm -f assets/stats/profile-details.svg
-          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=${{ github.repository_owner }}&theme=vue" -o assets/stats/stats.svg
-          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=${{ github.repository_owner }}&theme=vue" -o assets/stats/repos-per-language.svg
-          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=${{ github.repository_owner }}&theme=vue" -o assets/stats/most-commit-language.svg
-          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=${{ github.repository_owner }}&theme=vue&utcOffset=7" -o assets/stats/productive-time.svg
-          for card in assets/stats/*.svg; do
+          node scripts/render-profile-stats.mjs
+          for card in assets/stats/light/*.svg assets/stats/dark/*.svg; do
             grep -q "<svg" "$card"
           done
 
-      - name: Commit refreshed cards
+      - name: Commit refreshed stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats/*.svg
-          git diff --cached --quiet || git commit -m "Update profile summary cards"
+          git add assets/stats
+          git diff --cached --quiet || git commit -m "Update profile stats cards"
           git push

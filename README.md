@@ -1,68 +1,40 @@
-<!-- Profile Header -->
-<h1 align="center">你好 👋, I’m Kaung Khant Lin (Kinosaur)</h1>
-
-<h3 align="center">Computer Science student building a path in data</h3>
+![Kaung Khant Lin profile header](./assets/profile-header.png)
 
 <p align="center">
-  Data Analytics • Data Science • Data Engineering
+  <a href="https://www.linkedin.com/in/kaungkhantlin-kinosaur/">LinkedIn</a>
+  /
+  <a href="mailto:kaungkhantlin999@gmail.com">Email</a>
+  /
+  <a href="https://www.youtube.com/@whoiskino">YouTube</a>
 </p>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTNwMW1tY2M4ODJwbTI2ZXRwZHF5cWxpaW9vZmhudWVsNzcycHpxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/beQlhn9IBXSXmkaYfi/giphy.gif" />
+```txt
+raw records -> questions -> queries -> patterns -> systems
+```
 
-## 🌟 About Me
+```txt
+SQL                 ask better questions
+Python / Pandas     inspect and transform data
+Statistics          understand uncertainty
+PostgreSQL          model and store information
+Pipelines           move data reliably
+```
 
-- 🏫 Computer Science student at **Assumption University of Thailand**
-- 📊 Exploring the data field through **analytics**, **science**, and **engineering**
-- 🧠 Interested in turning raw data into clear insights and useful systems
-- 🛠️ Learning through projects, practice, and steady improvement
-- 🌱 Currently learning **Data Engineering on DataCamp** and **Chinese**
+<details>
+  <summary>activity</summary>
 
-## 🎯 Current Focus
+  <br>
 
-- Strengthening my foundation in **Python**, **SQL**, and data analysis
-- Learning how data is collected, cleaned, transformed, and stored
-- Studying databases, pipelines, and the basics of data engineering
-- Building confidence step by step in the data field
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kinosaur&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true" height="140" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kinosaur&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="140" alt="Top languages" />
+  </div>
 
-## 📈 GitHub Activity
+  <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinosaur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kinosaur&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kinosaur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-## 💻 Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data & Tools:**  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Platforms & Technologies:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 🤝 Connect
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kaungkhantlin-kinosaur/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:kaungkhantlin999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
-  </a>
-  <a href="https://www.youtube.com/@whoiskino" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat-square" height="28" alt="youtube logo"  />
-  </a>
-</div>
-
-<br clear="both">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake.svg" />
+  </picture>
+</details>

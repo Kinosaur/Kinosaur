@@ -12,15 +12,15 @@
   <text class="small" x="22" y="54">Python</text>
   <rect x="170" y="45" width="170" height="7" rx="3.5" fill="#d8dee4"/>
   <rect x="170" y="45" width="58" height="7" rx="3.5" fill="#3572A5"/>
-  <text class="small" x="398" y="54" text-anchor="end">34.4%</text>
+  <text class="small" x="398" y="54" text-anchor="end">34.1%</text>
   <text class="small" x="22" y="74">TypeScript</text>
   <rect x="170" y="65" width="170" height="7" rx="3.5" fill="#d8dee4"/>
-  <rect x="170" y="65" width="54" height="7" rx="3.5" fill="#3178c6"/>
-  <text class="small" x="398" y="74" text-anchor="end">32.0%</text>
+  <rect x="170" y="65" width="55" height="7" rx="3.5" fill="#3178c6"/>
+  <text class="small" x="398" y="74" text-anchor="end">32.3%</text>
   <text class="small" x="22" y="94">JavaScript</text>
   <rect x="170" y="85" width="170" height="7" rx="3.5" fill="#d8dee4"/>
   <rect x="170" y="85" width="27" height="7" rx="3.5" fill="#f1e05a"/>
-  <text class="small" x="398" y="94" text-anchor="end">15.7%</text>
+  <text class="small" x="398" y="94" text-anchor="end">15.9%</text>
   <text class="small" x="22" y="114">Java</text>
   <rect x="170" y="105" width="170" height="7" rx="3.5" fill="#d8dee4"/>
   <rect x="170" y="105" width="8" height="7" rx="3.5" fill="#b07219"/>
@@ -29,5 +29,5 @@
   <rect x="170" y="125" width="170" height="7" rx="3.5" fill="#d8dee4"/>
   <rect x="170" y="125" width="7" height="7" rx="3.5" fill="#e34c26"/>
   <text class="small" x="398" y="134" text-anchor="end">4.3%</text>
-  <text class="small" x="22" y="162">source bytes; notebooks are 94.0% of raw repo bytes</text>
+  <text class="small" x="22" y="162">source bytes; notebooks are 93.9% of raw repo bytes</text>
 </svg>

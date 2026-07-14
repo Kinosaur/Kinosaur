@@ -19,6 +19,6 @@
   <text class="label" x="22" y="130">active this year</text>
   <text class="value" x="398" y="130" text-anchor="end">26</text>
   <line x1="22" y1="143" x2="398" y2="143" stroke="#30363d" opacity="0.55"/>
-  <text class="small" x="22" y="162">last push: 2026-07-13</text>
-  <text class="small" x="398" y="162" text-anchor="end">updated: 2026-07-13</text>
+  <text class="small" x="22" y="162">last push: 2026-07-14</text>
+  <text class="small" x="398" y="162" text-anchor="end">updated: 2026-07-14</text>
 </svg>

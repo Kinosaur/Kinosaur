@@ -12,15 +12,15 @@
   <text class="small" x="22" y="54">Python</text>
   <rect x="170" y="45" width="170" height="7" rx="3.5" fill="#d8dee4"/>
   <rect x="170" y="45" width="59" height="7" rx="3.5" fill="#3572A5"/>
-  <text class="small" x="398" y="54" text-anchor="end">34.6%</text>
+  <text class="small" x="398" y="54" text-anchor="end">34.8%</text>
   <text class="small" x="22" y="74">TypeScript</text>
   <rect x="170" y="65" width="170" height="7" rx="3.5" fill="#d8dee4"/>
   <rect x="170" y="65" width="54" height="7" rx="3.5" fill="#3178c6"/>
-  <text class="small" x="398" y="74" text-anchor="end">31.8%</text>
+  <text class="small" x="398" y="74" text-anchor="end">31.7%</text>
   <text class="small" x="22" y="94">JavaScript</text>
   <rect x="170" y="85" width="170" height="7" rx="3.5" fill="#d8dee4"/>
-  <rect x="170" y="85" width="28" height="7" rx="3.5" fill="#f1e05a"/>
-  <text class="small" x="398" y="94" text-anchor="end">16.2%</text>
+  <rect x="170" y="85" width="27" height="7" rx="3.5" fill="#f1e05a"/>
+  <text class="small" x="398" y="94" text-anchor="end">16.1%</text>
   <text class="small" x="22" y="114">Java</text>
   <rect x="170" y="105" width="170" height="7" rx="3.5" fill="#d8dee4"/>
   <rect x="170" y="105" width="8" height="7" rx="3.5" fill="#b07219"/>

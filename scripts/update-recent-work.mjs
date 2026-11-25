@@ -8,7 +8,6 @@ const endMarker = "<!-- recent-work:end -->";
 const maxEntries = 3;
 const since = new Date(Date.now() - 90 * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
 const profileRepo = (username + "/" + username).toLowerCase();
-const profileRefresh = /^(?:Update profile stats cards|Update snake animation|Refresh profile activity)\b/i;
 
 async function* search(path, query, sort) {
   const url = new URL(path, "https://api.github.com");
@@ -61,7 +60,7 @@ async function recentCommits(pullRequests) {
     const repo = item.repository.full_name;
     const repoKey = repo.toLowerCase();
     if (!title || item.repository.private || seenRepos.has(repoKey)) continue;
-    if (item.author?.type === "Bot" || (repoKey === profileRepo && profileRefresh.test(title))) continue;
+    if (item.author?.type === "Bot" || repoKey === profileRepo) continue;
 
     const pullNumber = title.match(/\(#(\d+)\)$/)?.[1];
     if (pullRequests.some((pr) => pr.repo.toLowerCase() === repoKey && pr.number === Number(pullNumber))) {

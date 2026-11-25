@@ -10,8 +10,7 @@ I’m exploring Linux and want to learn C. I’m also studying data on DataCamp 
 
 <!-- recent-work:end -->
 
-<details>
-<summary>GitHub activity</summary>
+## GitHub activity
 
 <p>
   <picture>
@@ -33,5 +32,3 @@ I’m exploring Linux and want to learn C. I’m also studying data on DataCamp 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kinosaur/Kinosaur/output/github-snake.svg" />
 </picture>
-
-</details>

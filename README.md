@@ -14,16 +14,18 @@ I’m exploring Linux and want to learn C. I’m also studying data on DataCamp 
 
 <p>
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/stats/dark/github-stats.svg" width="420" height="178" />
+    <source media="(max-width: 600px)" srcset="./assets/stats/light/github-stats.svg" width="420" height="178" />
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/dark/github-stats.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/stats/light/github-stats.svg" />
-    <img src="./assets/stats/light/github-stats.svg" alt="GitHub stats" width="420" />
+    <img src="./assets/stats/light/github-stats.svg" alt="GitHub stats" width="48%" />
   </picture>
-</p>
-<p>
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/stats/dark/top-languages.svg" width="420" height="178" />
+    <source media="(max-width: 600px)" srcset="./assets/stats/light/top-languages.svg" width="420" height="178" />
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/dark/top-languages.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/stats/light/top-languages.svg" />
-    <img src="./assets/stats/light/top-languages.svg" alt="Top languages" width="420" />
+    <img src="./assets/stats/light/top-languages.svg" alt="Top languages" width="48%" />
   </picture>
 </p>
 

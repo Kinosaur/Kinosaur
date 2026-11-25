@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-refresh-${{ github.ref }}
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -21,6 +24,7 @@ jobs:
           node-version: 22
 
       - name: Refresh stats cards
+        id: stats
         env:
           GITHUB_TOKEN: ${{ github.token }}
           PROFILE_USERNAME: ${{ github.repository_owner }}
@@ -30,10 +34,25 @@ jobs:
             grep -q "<svg" "$card"
           done
 
-      - name: Commit refreshed stats
+      - name: Refresh recent work
+        id: recent_work
+        if: ${{ !cancelled() && (steps.stats.outcome == 'success' || steps.stats.outcome == 'failure') }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: node scripts/update-recent-work.mjs
+
+      - name: Publish successful updates
+        if: ${{ !cancelled() && (steps.stats.outcome == 'success' || steps.recent_work.outcome == 'success') }}
+        env:
+          STATS_OUTCOME: ${{ steps.stats.outcome }}
+          RECENT_WORK_OUTCOME: ${{ steps.recent_work.outcome }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats
-          git diff --cached --quiet || git commit -m "Update profile stats cards"
-          git push
+          if [[ "$STATS_OUTCOME" == success ]]; then git add assets/stats; fi
+          if [[ "$RECENT_WORK_OUTCOME" == success ]]; then git add README.md; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh profile activity"
+            git push
+          fi

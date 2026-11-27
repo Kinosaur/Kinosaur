@@ -4,7 +4,7 @@ I’m exploring Linux and want to learn C. I’m also studying data on DataCamp 
 
 ## Recent work
 
-- PR · [Fix tiny percentage and battery icon on Omarchy 4.5](<https://github.com/Paul-Bob/omarchy-super-battery/pull/4>) · `Paul-Bob/omarchy-super-battery`
+- Merged PR · [Fix tiny percentage and battery icon on Omarchy 4.5](<https://github.com/Paul-Bob/omarchy-super-battery/pull/4>) · `Paul-Bob/omarchy-super-battery`
 - Issue · [&#91;Plugin&#93;: Gentle Night Light](<https://github.com/omacom/omarchy-plugin-marketplace/issues/15604>) · `omacom/omarchy-plugin-marketplace`
 - Commit · [Release Gentle Night Light 0.2.1](<https://github.com/Kinosaur/omarchy-gentle-nightlight/commit/c1806b26f6f4e6633b263e2dad6b7623bca26de2>) · `Kinosaur/omarchy-gentle-nightlight`
 

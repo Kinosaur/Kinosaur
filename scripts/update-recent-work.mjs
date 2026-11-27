@@ -35,18 +35,23 @@ async function* search(path, query, sort) {
 }
 
 async function recentIssues(type) {
-  const query = "author:" + username + " is:public is:" + type + " created:>=" + since;
+  const mergedPulls = type === "pr";
+  const filter = mergedPulls ? "is:pr is:merged merged:>=" : "is:issue created:>=";
+  const query = "author:" + username + " is:public " + filter + since;
   const entries = [];
-  for await (const item of search("/search/issues", query, "created")) {
+  for await (const item of search("/search/issues", query, mergedPulls ? "updated" : "created")) {
+    const date = mergedPulls ? item.pull_request?.merged_at : item.created_at;
+    if (!date) continue;
     entries.push({
-      type: type === "pr" ? "PR" : "Issue",
+      type: mergedPulls ? "Merged PR" : "Issue",
       title: item.title,
       repo: new URL(item.repository_url).pathname.slice("/repos/".length),
       url: item.html_url,
-      date: item.created_at,
+      date,
       number: item.number,
     });
-    if (entries.length === maxEntries) break;
+    // Search can sort by issue creation time but has no sort for merge time.
+    if (!mergedPulls && entries.length === maxEntries) break;
   }
   return entries;
 }
